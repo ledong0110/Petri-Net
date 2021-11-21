@@ -26,3 +26,5 @@ Here is the sample construct Petri net (The sample image in the output_image fol
 
 More detail, please reading file named "sample_run.py" and run it !!!
 Have a wonderful time with my package :DDDDDDDDDDDDD
+![Alt text](https://github.com/ledong0110/Petri-Net-HCMUT/blob/main/output_image/sample_petri_net.png?raw=true "Output")	
+![Alt text](https://github.com/ledong0110/Petri-Net-HCMUT/blob/main/output_image/sample_output.png?raw=true "Output")
