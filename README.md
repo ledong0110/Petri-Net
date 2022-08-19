@@ -1,6 +1,4 @@
 # Petri-Net
-That is my assignment when studying in Mathematical Modelling
-
 *******************************************************************************************************************************************************************************************************
 To run the library, please constructing dictionary like below.												<br>					      
 In key "Place", add your places with following syntax:<br> <b>"[your_named_place]": [number of holding tokens]</b> <br>												      
